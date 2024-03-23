@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+
+h1 ,div, p{
+    text-align: center;
+}
+
+
+input{
+    width: 15rem;
+    text-align: center;
+    margin-top: 10px;
+}
+
+
+p,h2{
+    margin-top: 20px;
+    
+}
