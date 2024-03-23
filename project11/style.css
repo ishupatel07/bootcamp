@@ -1,0 +1,30 @@
+*{
+    box-sizing: border-boxs;
+}
+
+
+header, footer{
+height: 100px;
+border: 2px solid black;
+clear: both;
+}
+
+section{
+    height: 200px;
+    border: 2px solid black;
+}
+
+aside{
+    height: 250px;
+    width: 30%;
+    border: 2px solid black;
+    float: left;
+}
+
+article{
+    border: 2px solid black;
+    
+    color: aqua;
+    width: 99.9%;
+    height: 250px;
+}

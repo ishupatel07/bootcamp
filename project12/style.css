@@ -1,0 +1,36 @@
+*{
+    
+    box-sizing: border-box;
+}
+
+header, footer{
+    height: 100px;
+    border: 2px solid black;
+    clear: both;
+}
+
+section{
+    height: 300px;
+    border: 2px solid black;
+    float: left;
+}
+
+
+#one{
+    width: 18.3%;
+
+}
+
+#three{
+    width: 18.3%;
+
+}
+
+#four{
+    width: 18.4%;
+
+}
+#two{
+    width: 45%;
+}
+

@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+h1{
+    padding: 0 10px 10px 10px;
+    margin-right: 10px;
+    background: rgb(248, 0, 248);  
+    color: lightblue;
+}
+
+h2{
+    padding: 50px 0;
+    border-top: 2px solid darkgreen;
+    border-bottom: 2px solid darkgreen;
+    background: orange;
+}
+
+span{
+    border: 1px solid rgb(226, 226, 133);
+    padding: 20px;
+    margin: 20px;
+}

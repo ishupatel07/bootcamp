@@ -1,0 +1,10 @@
+section{
+    border: 1px solid black;
+    height: 100px;
+    flex:1;
+}
+
+
+main, .bottom{
+    display: flex;
+}

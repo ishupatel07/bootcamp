@@ -1,0 +1,31 @@
+h1{
+    color: blue;
+    text-decoration: underline;
+    background: gold;
+}
+
+h2{
+    color: purple;
+    font-weight: bold;
+    font-size: 25px;
+    border : 1px solid orange
+}
+
+section p{
+    width: 50%;
+    height: 200px;
+    background: gray;
+    color: white;
+    border: 5px solid black;
+}
+
+footer{
+    background-color: black;
+    border: 10px solid lightgreen;
+}
+h3{
+    color: white;
+    font-size: 20px;
+    font-family: Roboto;
+
+} 

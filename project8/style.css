@@ -1,0 +1,11 @@
+.fourLegs{
+    color: blue;
+}
+
+#bestHouse{
+    color: gold;
+}
+
+html body h1#hi + section.top + section.middle +  article.areDuckDinosaurs h2.likesToQuack.fight10or100{
+ color: palegreen ;   
+}
