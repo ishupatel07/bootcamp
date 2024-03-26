@@ -1,3 +1,5 @@
+
+
 let arr = [1,2,3,4,5,6,7,8,8,9]
 let sum = arr.reduce((a,b) => a+b)
 console.log(sum);
@@ -18,3 +20,15 @@ function reverseTheString(str){
 console.log(reverseTheString("abcde"))
 
 
+function str(str) {
+    
+    let reverse = str.split("").reverse().join("")
+    if(reverse === str){
+        return "itsp"
+    }else{
+         return"not"
+    }
+
+    
+}
+console.log(str("nanas"));
