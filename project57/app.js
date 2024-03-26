@@ -1,4 +1,5 @@
-let drink = "water"
+let drink = "   water"
+drink = drink.trim()
 console.log(drink)
 
 let word = "hello world"
@@ -46,3 +47,12 @@ function game(userChoice) {
 
 // Example usage:
 console.log(game("stone")); // Play a game with the user choosing "stone"
+
+function playGame(arr){
+    arr.forEach((choice) => {
+        game(choice)
+    })
+}
+
+playGame(["rock", "paper", "scissor"])
+
